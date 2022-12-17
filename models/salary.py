@@ -1,10 +1,14 @@
 import keras
 
-class RecommendationModel(keras.Model):
+class CustomerSalaryModelTrainer(object):
+    pass
+
+class JobSalaryModelTrainer(object):
     pass 
 
-class QuestionModel(keras.Model):
-    pass 
 
-class AnswerModel(keras.Model):
-    pass 
+class CustomerSalaryModel(keras.Model):
+    pass
+
+class JobSalaryModel(keras.Model):
+    pass
